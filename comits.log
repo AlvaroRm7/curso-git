@@ -1,0 +1,134 @@
+commit 5be7295593080ec6d8439f7ba070e6c051c66092
+Merge: d1a07e4 3f183bb
+Author: Alvaro Roman <alvarosdn7@gmial.com>
+Date:   Tue Oct 20 08:44:12 2026 -0500
+
+    Agregando dos parrafos
+
+commit d1a07e4e8ee2979e57cde2fee3d33f4c833fa976
+Author: Alvaro Roman <alvarosdn7@gmial.com>
+Date:   Mon Oct 19 15:54:10 2026 -0500
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 3f183bbc4e40a57056c8474701441b76c1a5b7cb
+Author: Alvaro Roman <alvarosdn7@gmial.com>
+Date:   Mon Oct 19 15:54:10 2026 -0500
+
+    Agregando las estaciones del año
+
+commit ad4fa5b09054b213c6d9bafaf0b9801f8dcf0a90
+Merge: 40d13f7 302aff4
+Author: Alvaro Roman <alvarosdn7@gmial.com>
+Date:   Mon Oct 19 15:48:14 2026 -0500
+
+    Resolviendo conflicto merge mian/htmñ en el documento index.htm
+
+commit 302aff403827bd0f39d52a984fa2da44a5adec44
+Author: Alvaro Roman <alvarosdn7@gmial.com>
+Date:   Mon Oct 19 14:44:50 2026 -0500
+
+    Actualizando el archivo index.html
+
+commit 1a1a4fa5044c3a498c50c5bff99cdd9d42853fa8
+Author: Alvaro Roman <alvarosdn7@gmial.com>
+Date:   Mon Oct 19 14:42:00 2026 -0500
+
+    agregando index.js al index.html
+
+commit 40d13f78627f300d156124661d745050de01e854
+Author: Alvaro Roman <alvarosdn7@gmial.com>
+Date:   Mon Oct 19 14:27:14 2026 -0500
+
+    aGREGANDO STYLE.CSS AL INDEX.HTML
+
+commit c887daa48da3b89b3b73596178fe97bfbc2f862c
+Merge: d285830 2547379
+Author: Alvaro Roman <alvarosdn7@gmial.com>
+Date:   Mon Oct 19 14:09:43 2026 -0500
+
+    Merge branch 'js'
+
+commit 2547379a30033133dc163290f2c9a74fb6d571bd
+Author: Alvaro Roman <alvarosdn7@gmial.com>
+Date:   Mon Oct 19 13:58:31 2026 -0500
+
+    Creando index.js
+
+commit d285830b2d054f91f26680bf31457c88ddf983f1
+Author: Alvaro Roman <alvarosdn7@gmial.com>
+Date:   Mon Oct 19 13:52:37 2026 -0500
+
+    Creando style.css
+
+commit 9ee0ffbb75878d37304cf298abf93d678e800993
+Author: Alvaro Roman <alvarosdn7@gmial.com>
+Date:   Mon Oct 19 13:46:45 2026 -0500
+
+    Creando archivo index.html
+
+commit cf924bc397c593611afe464a8f3150112f32f3d5
+Author: Alvaro Roman <alvarosdn7@gmial.com>
+Date:   Mon Oct 19 12:55:01 2026 -0500
+
+    ignoranod archivos .exe
+
+commit d4f2763e960c46a6c39dac431ece044be258ba4a
+Author: Alvaro Roman <alvarosdn7@gmial.com>
+Date:   Mon Oct 19 12:17:18 2026 -0500
+
+    Se cambio de mster a main y se modifico el archivo readme
+
+commit 597fb006abef70fff74ee5d39d73cd19a8a4e618
+Author: Alvaro Roman <alvarosdn7@gmial.com>
+Date:   Mon Oct 19 12:52:13 2026 -0500
+
+    ultima prueba
+
+commit 8f59ceb33727a241eeef9222b3cf19547d8490a8
+Author: Alvaro Roman <alvarosdn7@gmial.com>
+Date:   Mon Oct 19 12:48:21 2026 -0500
+
+    Prubea desde consola
+
+commit 1b2d5ecf5bd177a5798a3dc12bc96181b2ed49ea
+Author: AlvaroRm7 <alvarosdn7@gmail.com>
+Date:   Mon Oct 19 12:43:28 2026 -0500
+
+    Creando licencia del repositorio
+
+commit 217923dbd32ca0e3a866f7726bf932e382fe2b48
+Author: Alvaro Roman <alvarosdn7@gmial.com>
+Date:   Mon Oct 19 12:24:41 2026 -0500
+
+    Puedes revisarlo porfavor
+
+commit af52b549759c3187ac9e9aa59be1de552ecbf2c6
+Author: Alvaro Roman <alvarosdn7@gmial.com>
+Date:   Mon Oct 19 12:23:08 2026 -0500
+
+    CAmbio nuevo
+
+commit 611c223f3a3c80b7be3b64d7bb0a00fd23c08c23
+Author: Alvaro Roman <alvarosdn7@gmial.com>
+Date:   Mon Oct 19 12:21:49 2026 -0500
+
+    Cambio nuevo realizado
+
+commit fa28ad4e6fca7079580cdddd5f637ef81fd3e8ee
+Author: Alvaro Roman <alvarosdn7@gmial.com>
+Date:   Mon Oct 19 12:19:43 2026 -0500
+
+    CAMBIO AGREGADO AL READ ME
+
+commit dd55d9d8fd23b0a72171ee1213f6a4327a096664
+Author: Alvaro Roman <alvarosdn7@gmial.com>
+Date:   Mon Oct 19 11:54:47 2026 -0500
+
+    Agregando contenido inicial al readme
+
+commit 72c838c5f8ddc37fa5d83b37390ac7b12a312618
+Author: Alvaro Roman <alvarosdn7@gmial.com>
+Date:   Mon Oct 19 11:47:51 2026 -0500
+
+    primer commmit
